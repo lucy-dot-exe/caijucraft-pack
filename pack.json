@@ -95,5 +95,11 @@
     "page": "https://drive.google.com/file/d/1SbZhUJLBsn7I7oEONPL2W1NPcHZbkxBS/view?usp=sharing",
     "sha256": "5d7f6d20b4de8c600f81d64b4608bb65bccf92bfc72a727831c8785a63b68997",
     "size": 3751066
+  },
+  "launcher": {
+    "version": "1.1.0",
+    "url": "https://github.com/lucy-dot-exe/caijucraft-pack/releases/download/v1.1.0/CaijuLauncher.exe",
+    "sha256": "72ad28b299fd8c7a4685c8d36ad208e453e335c7a77a918cf18268c869160ac9",
+    "size": 8600064
   }
 }
